@@ -18,7 +18,7 @@ We want to explore whether or not there is a greater prevalence of traffic accid
   * Day of the week(weekend vs week days)
   
 * Breakdown of Tasks:
-  * Arun: entire parsing, analysis of accidents contributing to sunset glare close to sunset time
+  * Arun: analysis of accidents contributing to sunset glare close to sunset time
   * Grant: traffic accident data
   * Shalin: data cleanup, verification
   
