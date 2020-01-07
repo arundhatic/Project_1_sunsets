@@ -13,7 +13,6 @@ We want to explore whether or not there is a greater prevalence of traffic accid
 * How do the following variables impact the traffic accident rate
   * Weather Factors (rain, snow, etc)
   * Sunset Glare
-  * Traffic
   * Time of the day(rush hour)
   * Day of the week(weekend vs week days)
   
