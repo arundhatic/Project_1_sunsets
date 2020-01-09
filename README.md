@@ -28,7 +28,11 @@
 * Higher accident count during rush hour (7am-10am & 4pm-7pm)
  * Higher accident count during weekdays vs. weekends
 
+### Installations:
+ * suntime (to calculate the sunset time for each accident location)
+ * pytz (convert the sunset time to the local time based on the location  timezone)
+ * gmaps (map the location of the accidents)
 
- ### google drive location to resources :
+### google drive location to resources :
   * https://drive.google.com/open?id=1FwEeRJW0OQ3PlUNPLmV7bNR2Os9lsfkN
 
