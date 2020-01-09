@@ -1,28 +1,34 @@
-# UCSD Project 1
+# Driving into the Sunset, Project 1
 
-## The setting sun glare vs. traffic accident rates
-### Team Members:
+## Team Members:
 * Grant Thompson
 * Arundhati Chakraborty
 * Shalin Shekhar
 
-###### Description
+## Description of the dataset
 
-We want to explore whether or not there is a greater prevalence of traffic accidents when the sun is setting directly in the view of drivers.  We will startby picking a specific stretch of westbound highway (I-10 or I-8) and pull traffic accident data to find out the average rate of traffic accidents.  We will cross reference that with the times of year that the sun is setting directly over that specific road.
+   We are exploring a dataset of U.S. traffic accidents collected from      February 2016 to March 2019. There are 2.25 million accident records in the dataset, covering 49 states in the US.
 
-* How do the following variables impact the traffic accident rate
-  * Weather Factors (rain, snow, etc)
-  * Sunset Glare
-  * Time of the day(rush hour)
-  * Day of the week(weekend vs week days)
-  
-* Breakdown of Tasks:
-  * Arun: analysis of accidents contributing to sunset glare close to sunset time for all directions and rush hour analysis
-  * Grant: traffic accident data
-  * Shalin: weekday vs weekend accident
-  
-* Datasets:
-  * https://www.kaggle.com/sobhanmoosavi/us-accidents
+ ### The Dataset includes:
 
-* google drive location to resources :
+ * Latitude and Longitude
+ * Accident Date and Time
+ * Weather Conditions 
+ * State and time zone
+ * Road name and description of accident
+ 
+  Source: https://www.kaggle.com/sobhanmoosavi/us-accidents
+
+ ### Core Hypothesis:
+
+ * We wanted to see if the glare from the setting sun has an affect on accident prevalence for westbound traffic immediately preceding sunset (30 minutes prior to sunset)
+     * Our hypothesis is accident prevalence is higher when driving west   close to sunset, as the glare would affect your visibility. 
+
+* Weather condition has an impact on traffic accident prevalence 
+* Higher accident count during rush hour (7am-10am & 4pm-7pm)
+ * Higher accident count during weekdays vs. weekends
+
+
+ ### google drive location to resources :
   * https://drive.google.com/open?id=1FwEeRJW0OQ3PlUNPLmV7bNR2Os9lsfkN
+
