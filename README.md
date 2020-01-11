@@ -36,8 +36,17 @@
  * gmaps (map the location of the accidents)
  
 ### Plots
+#### accidents vs sunset glare for westbound traffic
+![](SunsetGlareAnalysis/output_data/map_accidents_west.png)
 ![](SunsetGlareAnalysis/output_data/accident_percentage_30prior_vs_directions.png)
 ![](SunsetGlareAnalysis/output_data/accident_percentage_60prior_vs_directions.png)
+![](SunsetGlareAnalysis/output_data/Westbound accidents before and after sunset.png)
+
+#### accidents vs weather condition
+![](WeatherCondition/output_data/accidents by weather condition pie chart.png)
+
+#### accidents vs rush hour
+![](RushHour/output_data/accident_count_vs_rush_hour.png)
 
 ### google drive location to resources :
   * https://drive.google.com/open?id=1FwEeRJW0OQ3PlUNPLmV7bNR2Os9lsfkN
