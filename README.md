@@ -18,6 +18,8 @@
  * Road name and description of accident
  
   Source: https://www.kaggle.com/sobhanmoosavi/us-accidents
+  
+  ![](WeatherCondition/output_data/scatter%20plot%20of%20accidents.png
 
  ### Core Hypothesis:
 
@@ -35,6 +37,7 @@
  
 ### Plots
 ![](SunsetGlareAnalysis/output_data/accident_percentage_30prior_vs_directions.png)
+![](SunsetGlareAnalysis/output_data/accident_percentage_60prior_vs_directions.png)
 
 ### google drive location to resources :
   * https://drive.google.com/open?id=1FwEeRJW0OQ3PlUNPLmV7bNR2Os9lsfkN
