@@ -40,10 +40,10 @@
 ![](SunsetGlareAnalysis/output_data/map_accidents_west.png)
 ![](SunsetGlareAnalysis/output_data/accident_percentage_30prior_vs_directions.png)
 ![](SunsetGlareAnalysis/output_data/accident_percentage_60prior_vs_directions.png)
-![](SunsetGlareAnalysis/output_data/Westbound accidents before and after sunset.png)
+![](SunsetGlareAnalysis/output_data/Westbound%20accidents%20before%20and%20after%20sunset.png)
 
 #### accidents vs weather condition
-![](WeatherCondition/output_data/accidents by weather condition pie chart.png)
+![](WeatherCondition/output_data/accidents%20by%20weather%20condition%20pie%20chart.png)
 
 #### accidents vs rush hour
 ![](RushHour/output_data/accident_count_vs_rush_hour.png)
