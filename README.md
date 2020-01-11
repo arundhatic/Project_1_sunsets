@@ -32,6 +32,9 @@
  * suntime (to calculate the sunset time for each accident location)
  * pytz (convert the sunset time to the local time based on the location  timezone)
  * gmaps (map the location of the accidents)
+ 
+### Plots
+![](SunsetGlareAnalysis/output_data/accident_percentage_30prior_vs_directions.png)
 
 ### google drive location to resources :
   * https://drive.google.com/open?id=1FwEeRJW0OQ3PlUNPLmV7bNR2Os9lsfkN
