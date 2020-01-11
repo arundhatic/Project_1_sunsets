@@ -19,7 +19,7 @@
  
   Source: https://www.kaggle.com/sobhanmoosavi/us-accidents
   
-  ![](WeatherCondition/output_data/scatter%20plot%20of%20accidents.png
+  ![](WeatherCondition/output_data/scatter%20plot%20of%20accidents.png)
 
  ### Core Hypothesis:
 
