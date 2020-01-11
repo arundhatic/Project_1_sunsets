@@ -37,7 +37,6 @@
  
 ### Plots
 #### accidents vs sunset glare for westbound traffic
-![](SunsetGlareAnalysis/output_data/map_accidents_west.png)
 ![](SunsetGlareAnalysis/output_data/accident_percentage_30prior_vs_directions.png)
 ![](SunsetGlareAnalysis/output_data/accident_percentage_60prior_vs_directions.png)
 ![](SunsetGlareAnalysis/output_data/Westbound%20accidents%20before%20and%20after%20sunset.png)
